@@ -1,0 +1,28 @@
+06:58:30.894 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+06:58:30.895 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+06:58:30.902 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+06:58:30.903 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+06:58:31.097 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+06:58:31.098 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+06:58:33.209 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+06:58:33.210 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+06:58:35.948 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+06:58:35.949 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+06:58:35.950 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+06:58:35.951 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+06:58:36.139 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+06:58:36.139 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+06:58:38.268 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+06:58:38.269 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+07:02:05.655 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+07:02:05.655 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+07:02:05.657 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+07:02:05.657 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+07:29:33.934 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+07:29:33.965 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+07:29:33.965 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+07:29:33.965 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+07:29:34.436 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+07:29:34.436 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
+07:29:35.577 [15976] [OERROR] [Outlook Probe] [MailInspector::pipeHandshake] pipeHandshake: failed connecting pipe
+07:29:35.577 [15976] [OERROR] [Outlook Probe] [MailInspector::HandleIncomingEmail] Failed connecting to pipe for incoming mail handling
